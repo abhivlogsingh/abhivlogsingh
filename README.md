@@ -8,7 +8,6 @@
 [![Linkedin: abhishek](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-b568171ba/)](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website]()](https://itzabhishek.netlify.app/)
-![](https://itzabhishek.netlify.app/)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
