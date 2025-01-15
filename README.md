@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Singh <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5MzU0NjAsIm5iZiI6MTczNjkzNTE2MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDA5NTkyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4ZDMxZGNiZDRiMzQ3MmRlMWY5M2YwNjVhODBjZjA1N2VkZjhlMjJkOWRkNjc3ZTViNDBiNGFhNDA2ZjBjODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._XSMmcIz5jZ15N0sZlHbYEprbuD660MxYzrZWA_mT7M" />
+<img align="right" alt="GIF" height="220px" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://git.io/typing-svg" style="text-decoration: none;" >
