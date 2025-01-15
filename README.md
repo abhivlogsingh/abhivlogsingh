@@ -1,10 +1,11 @@
-# Hi there, I'm Bardia - aka Bardiesel <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm Abhishek Singh <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Backend Developer
 
 - 🌱 I am currently learning more about backend development.
+- 👆 <p><em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
 - 😄 Pronouns: He/Him
 
@@ -12,8 +13,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel)
-
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
 ---
 
@@ -24,18 +23,6 @@
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
 ---
-
-
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Abhishek Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/misterabhishek?label=Follow)](https://x.com/Abhishe91196437)
-[![Linkedin: abhishek](https://img.shields.io/badge/-abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-singh-b568171ba/)](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
