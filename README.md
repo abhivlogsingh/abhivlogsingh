@@ -143,7 +143,6 @@ JavaScript               32 repos            ██████████░�
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %  
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
-![Snake animation](https://github.com/abhivlogsingh/abhivlogsingh/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--END_SECTION:waka-->
