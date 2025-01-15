@@ -2,19 +2,34 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Full Stack Developer
+<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
+  <h2 style="margin: 0;">I'm a ⬇️</h2>
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=full+stack+developer;problem+solver;freelancer" alt="Typing SVG" />
+  </a>
+</div>
+
 
 - 🌱 I am currently learning more about backend development.
 - 👆 <em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/bardiesel/)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bardiesel)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiesel/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realbardiesel)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Bardiesel)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhivlogsingh)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe91196437)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 ---
+
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/abhisheksingh4115/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- React -->
@@ -44,13 +59,8 @@
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 </p>
----
 
-### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/abhisheksingh4115/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 ---
@@ -59,7 +69,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)]()
 
 ---
 
