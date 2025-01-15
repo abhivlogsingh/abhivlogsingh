@@ -143,7 +143,7 @@ JavaScript               32 repos            ██████████░�
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %  
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abhivlogsingh/abhivlogsingh/blob/output/github-contribution-grid-snake.svg)
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
