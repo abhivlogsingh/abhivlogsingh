@@ -63,6 +63,13 @@ const abhishek = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C541%20hrs%205%20mins-blue)
@@ -87,7 +94,7 @@ const abhishek = {
 
 ```text
 🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌆 Daytime                186  commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
 🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
 🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
@@ -104,39 +111,14 @@ Sunday                   944 commits         █████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               24 hrs 8 mins       ███████████████████████░░   93.38 % 
-SCSS                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-
-🔥 Editors: 
-WebStorm                 25 hrs 50 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      25 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %  
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
-
-
-
-
- Last Updated on 10/01/2025 00:31:34 UTC
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
