@@ -39,6 +39,10 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <!-- React -->
@@ -70,8 +74,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
