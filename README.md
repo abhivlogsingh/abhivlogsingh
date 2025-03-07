@@ -11,7 +11,6 @@
 </div>
 
 
-
 - 🌱 I am currently learning more about backend development.
 - 👆 <em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
