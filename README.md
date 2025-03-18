@@ -86,7 +86,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> 
 <img style="margin: 10px" src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" height="50" /> 
- 
+<img style="margin: 10px" src="https://i.pinimg.com/474x/8b/7c/ac/8b7cac4d85303b79158dd3cf2d9b63c8.jpg" alt="Vercel" height="50" />
+<img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIxO5LClEGpJZCbniLBzd9dA_RdiRKM5-1_A&s" alt="Vercel" height="50" />
 </div>
 
 </td></tr></table>  
