@@ -18,12 +18,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe91196437)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
+---
 ### 📫 Like to meet me?
-
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
 <a href="https://calendly.com/abhisheksingh4115/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
 
 ---
 
