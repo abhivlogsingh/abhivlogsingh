@@ -105,7 +105,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ![](https://github-profile-trophy.vercel.app/?username=adarshsingh7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
-
 ```bash
 npx abhishek
 ```
@@ -151,9 +150,6 @@ const abhishek = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-
-
 
  > 
 📅 **I'm Most Productive on Sunday** 
