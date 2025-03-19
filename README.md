@@ -24,7 +24,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/abhisheksingh4115/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ---
-
+---
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -48,8 +48,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -78,8 +76,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
@@ -97,7 +93,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </td></tr></table>  
 
 <br/>  
-
+---
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
