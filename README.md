@@ -93,8 +93,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </td></tr></table>  
 
 <br/>  
----
----
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
