@@ -172,6 +172,20 @@ Java                     22 repos            ████████░░░�
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 %  
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
+
+
+---
+<h3>MY FRIEND</h3>
+has a message for you...
+
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
+<br>
+---
+
 <img src="https://imgur.com/rilHVxA.png"/> 
 
 <!--END_SECTION:waka-->
