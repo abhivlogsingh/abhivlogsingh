@@ -74,6 +74,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
 </div>
 
+
 </td><td valign="top" width="33%">
 
 ### DevOps  
