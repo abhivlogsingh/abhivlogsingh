@@ -117,7 +117,7 @@ npx abhishek
 ```javascript
 const abhishek = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    code: ["TypeScript", "Javascript", "Java"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
@@ -157,7 +157,7 @@ const abhishek = {
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   45.69 % 
 Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
@@ -189,6 +189,7 @@ has a message for you...
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+
 
 <!--END_SECTION:waka-->
 
