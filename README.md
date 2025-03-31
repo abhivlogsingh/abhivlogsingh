@@ -104,7 +104,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarshsingh7&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
 ---
 
 ```bash
