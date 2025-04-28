@@ -6,7 +6,7 @@
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://git.io/typing-svg" style="text-decoration: none;" >
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtydTdjMnVpMHRzMTFoanUxaHB1aHNxZGFhaDQ5ODNka2g0dHo1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=full+stack+developer;problem+solver;freelancer;Software+Developer&color=FFA500" alt="Typing SVG" />
   </a>
 </div>
 
